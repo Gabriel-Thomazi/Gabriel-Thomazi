@@ -1,7 +1,6 @@
 <h1 align="center">Olá, Mundo!</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Desenvolvedor%20Fullstack-000?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-Data%20Science-000?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Minimalismo%20é%20chave-000?style=flat-square" />
 </p>
