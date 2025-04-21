@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Data%20Science-000?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Minimalismo%20é%20chave-000?style=flat-square" />
 </p>
 
 <p align="center">
