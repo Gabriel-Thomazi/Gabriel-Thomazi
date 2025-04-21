@@ -42,8 +42,8 @@ Sou apaixonado por **tecnologia, dados e boas interfaces**. Atualmente focado em
 ### Estatísticas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabriel-thomazi&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-thomazi&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
