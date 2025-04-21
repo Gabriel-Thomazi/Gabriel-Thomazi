@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Gabriel!</h1>
+<h1 align="center">Olá, Mundo!</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Desenvolvedor%20Fullstack-000?style=flat-square&logo=github&logoColor=white" />
@@ -24,7 +24,7 @@
 
 Sou apaixonado por **tecnologia, dados e boas interfaces**. Atualmente focado em:
 
-- **Data Science & Machine Learning**
+- **Data Science
 - **Estilo de vida digital minimalista**
 
 ---
@@ -48,5 +48,5 @@ Sou apaixonado por **tecnologia, dados e boas interfaces**. Atualmente focado em
 
 ---
 
-### “Menos é mais.”
+### “Menos é mais - Ludwig Mies van der Rohe”
 
