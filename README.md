@@ -5,24 +5,24 @@
 </p>
 
 <p align="center">
-  <a href="nao possuo ainda " target="_blank">
-    <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/gabriel-thomazi/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="gthomazirosa@gmail.com">
+  <a href="mailto:gthomazirosa@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="nao possuo ainda" target="_blank">
+  <a href="https://portfolio.com" target="_blank">
     <img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-000?style=flat-square&logo=firefox&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### Sobre mim
+### Sobre Mim
 
-Sou apaixonado por **tecnologia, dados e boas interfaces**. Atualmente focado em:
+Sou apaixonado por **tecnologia, dados e boas interfaces**. Atualmente, estou focado em:
 
-- **Data Science
+- **Data Science**
 - **Estilo de vida digital minimalista**
 
 ---
@@ -47,4 +47,3 @@ Sou apaixonado por **tecnologia, dados e boas interfaces**. Atualmente focado em
 ---
 
 ### “Menos é mais - Ludwig Mies van der Rohe”
-
