@@ -1,64 +1,63 @@
-<h1 align="center">🌟 Olá, Mundo! 🌍</h1>
+# ✨ Olá, Mundo! ✨
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Data_Science-20232F?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Minimalism-ff6f61?style=for-the-badge&logo=ubuntu&logoColor=white" />
-</p>
+<img align="right" width="200" src="https://avatars.githubusercontent.com/u/16922968?v=4" />
 
----
+## 🧑‍💻 Quem Sou Eu?
 
-## 💬 Sobre Mim
+Olá, sou **Gabriel Thomazi**, apaixonado por **tecnologia**, **dados** e **design minimalista**. Meu trabalho é encontrar maneiras de **simplificar a vida** com a **tecnologia** enquanto exploro o universo dos **dados**.
 
-Sou **Gabriel Thomazi**, um entusiasta de **tecnologia, dados e design minimalista**. Meu foco está em explorar como dados podem melhorar nossas decisões e transformar a experiência digital.
+Atualmente, estou dedicado ao mundo de **Data Science** e à filosofia de um estilo de vida **digital minimalista**, onde a simplicidade é chave!
 
-Atualmente, estou me aprofundando em **Data Science** e buscando formas de simplificar a vida digital para ter mais **produtividade** e **bem-estar**.
+> “A simplicidade é o último grau de sofisticação.” – *Leonardo da Vinci*
 
 ---
 
-## 🛠️ Tecnologias que Uso
+## 🚀 O que Faço
 
-<p align="center">
+- **Data Science**: Explorando o poder dos dados e suas aplicações.
+- **Automação de processos**: Criando soluções inteligentes para facilitar o cotidiano.
+- **Minimalismo digital**: Buscando uma vida mais simples e eficiente, sem excessos tecnológicos.
+
+---
+
+## 🧰 Ferramentas e Tecnologias
+
+<div align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
+</div>
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📊 Minhas Estatísticas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabriel-thomazi&show_icons=true&theme=merko&hide_border=true&hide_title=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-thomazi&layout=compact&theme=merko&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabriel-thomazi&show_icons=true&theme=solarized-light&hide_border=true&hide_title=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-thomazi&layout=compact&theme=solarized-light&hide_border=true"/>
 </p>
 
 ---
 
-## ✍️ Citações Favoritas
+## 💬 Vamos Conversar?
 
-> "A simplicidade é o último grau de sofisticação." — *Leonardo da Vinci*
+Eu adoro trocar ideias sobre tecnologia, dados e simplificação digital. Você pode me encontrar em:
 
-> "A tecnologia é melhor quando reúne as pessoas." — *Matt Mullenweg*
-
----
-
-## 🔗 Me Encontre em:
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-thomazi/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:gthomazirosa@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://portfolio.com" target="_blank">
-    <img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
-</p>
+- [LinkedIn](https://www.linkedin.com/in/gabriel-thomazi/) 💼
+- [Email](mailto:gthomazirosa@gmail.com) ✉️
+- [Portfólio](https://portfolio.com) 🌐
 
 ---
 
-<h3 align="center">“Menos é mais.” – *Ludwig Mies van der Rohe*</h3>
+## 🌱 Citação Favorita
+
+> “A simplicidade é o ponto de partida para a verdadeira inovação.” – *Steve Jobs*
+
+---
+
+<h4 align="center">Vamos simplificar juntos?</h4>
+
+---
+
