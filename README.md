@@ -9,14 +9,12 @@
 
 ## 🌟 Sobre Mim
 
-Olá, sou **Gabriel Thomazi**. Sou apaixonado por **tecnologia**, **dados** e **design simples**. Acredito que a **simplicidade** é a chave para resolver problemas complexos, e trabalho todos os dias para aplicar isso em meu trabalho com **Data Science**.
+Olá, sou **Gabriel Thomazi**. Sou apaixonado por **tecnologia**, **dados** e um **design simples**. Acredito que a **simplicidade** é a chave para resolver problemas complexos, e trabalho todos os dias para aplicar isso em meus estudos com **Data Science**.
 
 Atualmente, meu foco está em:
 
 - **Data Science**
 - **Automação de processos**
-- **Minimalismo digital**
-
 ---
 
 ## 🛠️ Tecnologias que Uso
