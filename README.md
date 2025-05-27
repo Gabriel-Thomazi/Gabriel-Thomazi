@@ -41,7 +41,7 @@ Atualmente, meu foco está em:
 
 - [LinkedIn](https://www.linkedin.com/in/gabriel-thomazi/)
 - [Email](mailto:gthomazirosa@gmail.com)
-- [Portfólio](https://portfolio.com)
+- [Portfólio](https://gabriel-thomazi.github.io/meu_portifolio/intro.html)
 
 ---
 
